@@ -1,0 +1,1 @@
+export cmd="run.pl"

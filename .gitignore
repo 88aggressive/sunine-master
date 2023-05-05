@@ -1,0 +1,12 @@
+# python compiled sources
+__pycache__
+*.pyc
+
+# log files
+*.log
+*.out
+
+# data
+data/
+exp/
+scores/

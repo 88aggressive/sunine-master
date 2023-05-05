@@ -1,0 +1,7 @@
+pytorch-gpu
+numpy==1.18.1
+sklearn
+kaldi-io
+scipy
+tensorboadX
+tqdm

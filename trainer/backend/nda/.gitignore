@@ -1,0 +1,12 @@
+# python compiled sources
+*.pyc
+
+# log files
+*.log
+*.out
+
+# data
+data
+runs
+ckpt
+scores
